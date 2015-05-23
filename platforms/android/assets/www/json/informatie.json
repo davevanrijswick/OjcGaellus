@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "total": 2,
+    "result": [
+        {
+            "id": 1,
+            "picture": "img/info/timetable.jpg",
+            "title": "Timetable",
+            "body": "Timetable van Gaellus Open Air"
+        }, {
+            "id": 2,
+            "picture": "img/info/plattegrond.jpg",
+            "title": "Plattegrond",
+            "body": "De plattegrond van Gaellus Open Air."
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+	"id": 1,
+	"total": 12,
+	"result": [
+		{
+			"id": 1,
+			"thumb": "img/bands/Gallowstreet1.jpg",
+			"title": "Gallowstreet Brass Band",
+			"body": "Gallowstreet Brass Band staan dit jaar als headliners op het podium van Gaellus Open Air. Deze groep artiesten zijn begonnen in Amsterdam in de, je raad het al, Galgenstraat. Ze hebben onder andere op Pitch Festival en Eurosonic Noorderslag gestaan in 2014 en we wachten met spanning af wat ze op Gaellus Open Air zullen laten zien.",
+			"tags": ["21.45"],
+			"pictures": [
+				"img/bands/Gallowstreet1.jpg"
+			]
+		}, {
+			"id": 2,
+			"thumb": "img/bands/Early.jpg",
+			"title": "Early Adopters",
+			"body": "Ook onze lokale muzikale helden, de Early Adopters, ontbreken dit jaar niet op Gaellus Open Air. De Early Adopters hebben verder weinig uitleg nodig, deze finalisten van De Grote Prijs van Nederland gaan met sfeervolle gitaarpop een spektakel maken van deze thuiswedstrijd.",
+			"tags": ["18.45"],
+			"pictures": [
+				"img/bands/Early.jpg"
+			]
+		}, {
+			"id": 3,
+			"thumb": "img/bands/Screw.jpg",
+			"title": "Screw Houston",
+			"body": "Deze band is afkomstig uit de UK en moet het hebben van de stevige Hardcore. Met het debuut album: “No Love, No Hope, No Future” hebben de heren de eer om het binnen podium deze af te mogen sluiten.",
+			"tags": ["18.00"],
+			"pictures": [
+				"img/bands/Screw.jpg"
+			]
+		}, {
+			"id": 4,
+			"thumb": "img/bands/Veterans.jpg",
+			"title": "Double Veterans",
+			"body": "De band Double Veterans spelen tempo klinkende garage rock. Het drietal, waarvan 2 leden afkomstig zijn van The Crackups en de zanger van Tubelight gaan ons voorzien van een grote portie garage & rock-‘n-roll. Ze spelen wild, intens en aanstekelijk energiek, maar ze blijven een melodieus genot om naar te luisteren. De vijf heren van de Nederlandse hardcore band Screw Houston (voormalig Screw Houston Start Screaming) werken al sinds 2009 samen om telkens een energieke rockshow neer te zetten. Met groot zelfvertrouwen staat Screw Houston in 2015 met nog steeds dezelfde vijf mannen op het podium. Ze hebben onder andere in Tsjechië, Frankrijk, Duitsland en België opgetreden en we zijn blij om ze op Gaellus Open Air te mogen verwelkomen.",
+			"tags": ["20.15"],
+			"pictures": [
+				"img/bands/Veterans.jpg"
+			]
+		}, {
+			"id": 5,
+			"thumb": "img/bands/Thalamus.jpg",
+			"title": "Thalamus",
+			"body": "Dit jaar besloten we om uit te zoeken wat onze eigen regio voor psychedelische muziek kan produceren. Dan hebben we het natuurlijk over Thalamus. Deze band uit Horst laat het zelfs zien in hun naam, ze nemen je mee in een muzikale droom. Ze putten hun inspiratie uit bands als Warpaint & Tame Impala.",
+			"tags": ["15.00"],
+			"pictures": [
+				"img/bands/Thalamus.jpg"
+			]
+		}, {
+			"id": 6,
+			"thumb": "img/bands/Mooon.jpg",
+			"title": "Mooon",
+			"body": "Mooon zal voor wat ‘Psychedelische Garage Blues’ gaan zorgen. Deze band bestaande uit twee broers en hun neef zijn begonnen begin 2013 in Aarle-Rixtel. Ze hebben al eens gespeeld in een uitverkochte Area 51 zaal en op het Nightbirds Kingsday Festival in Venlo",
+			"tags": ["16.16"],
+			"pictures": [
+				"img/bands/Mooon.jpg"
+			]
+		},
+                {
+			"id": 7,
+			"thumb": "img/bands/Midday.jpg",
+			"title": "Midday Committee",
+			"body": "De eerste internationale band deze dag is Midday Committee. Deze band uit Portsmouth, Engeland werd opgericht in 2011. Ze komen Gaellus Open Air voorzien van hun melodieuze pop punk die ongetwijfeld lang in het geheugen zal blijven hangen.",
+			"tags": ["17.30"],
+			"pictures": [
+				"img/bands/Midday.jpg"
+			]
+		},
+                {
+			"id": 8,
+			"thumb": "img/bands/Infernal.jpg",
+			"title": "Infernal Scheisse",
+			"body": "Ook binnen in OJC Gaellus is een podium voor de wat hardere bands uit het genre. Een laag podium, stagedives & highfives dus! De lokale helden Infernal Scheisse krijgen tijdens Gaellus Open Air de eer om de spits op het binnen-podium af te bijten. Deze authoriteit op het gebied van hardcore & punk uit Horst aan de Maas staan garant voor een knallend optreden en zorgen ervoor dat je na je zondag ontbijt sowieso wakker bent!",
+			"tags": ["16.45"],
+			"pictures": [
+				"img/bands/Infernal.jpg"
+			]
+		},
+                {
+			"id": 9,
+			"thumb": "img/bands/Canvas.jpg",
+			"title": "Canvas",
+			"body": "Deze band is afkomstig uit de UK en moet het hebben van de stevige Hardcore. Met het debuut album: “No Love, No Hope, No Future” hebben de heren de eer om het binnen podium deze af te mogen sluiten.",
+			"tags": ["19.30"],
+			"pictures": [
+				"img/bands/Canvas.jpg"
+			]
+		},
+                {
+			"id": 10,
+			"thumb": "img/bands/Ambivalenz.jpg",
+			"title": "Ambivalenz",
+			"body": "Om bij te komen van het ‘middaggeweld’ en de dansmoves alvast warm te draaien, hebben we Ambivalenz uitgenodigd. dit duo uit Groningen zal voor wat elektronische afwisseling zorgen. Ze halen hun inspiratie uit de muziek van Erol Alkan, Boys Noize en Justice en hebben op festivals gestaan naast onder andere Paul Kalkbrenner, Netsky en Chase & Status.",
+			"tags": ["22.45"],
+			"pictures": [
+				"img/bands/Ambivalenz.jpg"
+			]
+		},
+                {
+			"id": 11,
+			"thumb": "img/bands/Lucky.jpg",
+			"title": "Lucky Done Gone",
+			"body": "Lucky Done Gone, de 22 Jarige DJ uit Tilburg neemt op Gaellus Open Air de afsluiting met lekkere house, techno & electronica voor zijn rekening. Hij is geen onbekende in het circuit met onder andere optredens op Sziget Festival en Solar Weekend festival.",
+			"tags": ["23.45"],
+			"pictures": [
+				"img/bands/Lucky.jpg"
+			]
+		},
+                {
+			"id": 12,
+			"thumb": "img/bands/andmanymore.jpg",
+			"title": "And Many More",
+			"body": "Verder hebben we verschillende dj's die fijne plaatjes draaien. Dj's met naam en faam o.a Keezus Christus, RoellerDisco, Wayne Nice, All the sinigle ladies en Beppie kraftwerk. Mocht je na dit alles er nog niet genoeg van hebben gehad, dan gaat het binnen in OJC Gaellus verder met de Serumse helden van Dansvoer. Genoeg moois dus te horen en te zien op 24 mei in Tienray tijdens Gaellus Open 2015",
+			"pictures": [
+				"img/bands/andmanymore.jpg"
+			]
+		}
+	]
+}

@@ -1,0 +1,96 @@
+/*header bar kleur*/
+.bar.app-top-bar {
+  background-color: #252525;
+  }
+  .bar.app-top-bar .title {
+    color: #FFFFFF !important; }
+    .bar.app-top-bar .title * {
+      color: #FFFFFF !important; }
+  .bar.app-top-bar .button {
+    color: #FFFFFF !important; }
+    .bar.app-top-bar .button * {
+      color: #FFFFFF !important; }
+
+/*menu links*/
+ion-side-menu ion-content {
+  background-color: #252525; }
+ion-side-menu ion-item.item {
+  border-right: none;
+  border-left: none;
+  border-color: #373737; }
+  ion-side-menu ion-item.item .item-content {
+    background-color: #252525; }
+    ion-side-menu ion-item.item .item-content .icon:before {
+      background-color: #444444;
+      color: #FFFFFF;
+      border-radius: 50%;
+      font-size: 22px;
+      width: 32px;
+      height: 32px;
+      line-height: 32px; }
+  ion-side-menu ion-item.item .item-content.activated {
+    background-color: #5e5e5e; }
+  ion-side-menu ion-item.item .menu-text {
+    color: #cccccc;
+    font-weight: 500; }
+ion-side-menu ion-item.item:first-child {
+  border-top: none; }
+ion-side-menu ion-item.item:last-child {
+  border-bottom: none; }
+ion-side-menu .heading-item .item-content {
+  height: 120px;
+  padding-top: 45px;
+  padding-left: 115px;
+  background-color: #2b2b2b;
+  padding-bottom: 0px; }
+ion-side-menu .heading-item img {
+  max-width: 90px !important;
+  max-height: 90px !important;
+  border: 1px solid #999999;
+  padding: 8px; }
+ion-side-menu .heading-item .greeting {
+  color: #FFFFFF;
+  font-weight: 500; }
+ion-side-menu .heading-item .message {
+  color: #999999; }
+
+/*profiel gaellus*/
+.profile-view .profile-container {
+  margin: 0px auto;
+  margin-top: 6vh;
+  text-align: center; }
+.profile-view .user-image {
+  border-radius: 50%;
+  border-top: 1px solid #444;
+  padding: 8px;
+  background-color: #fff;
+  width: 46vw;
+  max-width: 200px; }
+.profile-view .user-name {
+  font-size: 20px; }
+.profile-view .user-twitter {
+  margin-top: 5px; }
+.profile-view .top-content {
+  border-bottom: 1px solid #444;
+  position: relative;
+  height: 20vh;
+  margin-bottom: 25vh; }
+.profile-view .user-background-image {
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+  background-size: cover !important; }
+.profile-view .bottom-content {
+  padding: 0px;
+  background-color: #fff;
+  min-height: 55vh;
+  position: relative; }
+  .profile-view .bottom-content .user-bio {
+    text-align: center;
+    margin: 6px 30px;
+    padding: 6px 0px; }
+

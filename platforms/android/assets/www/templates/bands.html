@@ -1,0 +1,15 @@
+<ion-view title="Bands">
+    <ion-content class="has-header">
+               
+        <div class="row" ng-repeat="row in bands | partition:2">
+            <div class="col" ng-repeat="band in row">
+            <a href="#/OjcGaellus/bands/{{(($parent.$index*row.length)+$index)}}"><img ng-src="{{band.thumb}}"alt="{{band.title}}"/></a>
+            <a href="#/OjcGaellus/bands/{{(($parent.$index*row.length)+$index)}}"><h2>{{band.title}}</h2></a>
+            <p ng-model="letterLimit">{{band.body | limitTo:letterLimit}}...</p>
+            <p class="tags"><i class="icon ion-clock"></i>
+            <span ng-repeat="tag in band.tags">{{tag}}{{$last ? '' : ', '}}</span>
+            </p>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

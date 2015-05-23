@@ -1,0 +1,17 @@
+<ion-view title="{{band.title}}">
+    <ion-content class="has-header">
+        
+        <ion-slide-box on-slide-changed="slideHasChanged($index)" auto-play="true">
+            <ion-slide ng-repeat="picture in band.pictures">
+            <img ng-src="{{picture}}"/>
+            </ion-slide>
+        </ion-slide-box>
+        
+        <div class="padding">
+        <h2 class="title">{{band.title}}</h2>
+        <p>{{band.body}}</p>
+        <p><i class="icon ion-ios7-pricetags"></i> <span ng-repeat="tag in bands.tags">{{tag}}{{$last ? '' : ', '}}</span></p>
+        </div>
+
+    </ion-content>
+</ion-view>
